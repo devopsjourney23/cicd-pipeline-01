@@ -4,7 +4,7 @@ Continous Integration is implemented using Jenkins and Continous Delivery using 
 ![image](https://github.com/devopsjourney23/spring-boot-app/assets/142556153/c40fc189-7b7c-453b-ad53-3c43315d86d4)
 
 Demo Video:
-https://youtu.be/D-fpDanYOS8
+https://youtu.be/rs7ujdJLMKo
 
 
 Please follow below steps for installtion for respective components of this CICD implementation.
