@@ -1,5 +1,5 @@
-Idea of this exercise is to build CICD Pipeline to deployment (Java Spring Boot Application) changes automatically on k8s cluster.
-Continous Integration is implemented using Jenkins and Continous Delivery using ArgoCD tp deploy on local k8s cluster created via minikube.
+Idea of this exercise is to build CICD Pipeline to automate deployment of Java application on k8s cluster. 
+Continous Integration is implemented using Jenkins and Continous Delivery using ArgoCD to deploy application on local k8s cluster which is created using minikube.
 
 ![image](https://github.com/devopsjourney23/spring-boot-app/assets/142556153/c40fc189-7b7c-453b-ad53-3c43315d86d4)
 
